@@ -1,5 +1,4 @@
 # your code goes here
-<<<<<<< HEAD
 require "pry"
 
 class Person
@@ -77,15 +76,3 @@ class Person
   end
 
 end
-
-
-# binding.pry
-=======
-class Person 
-  attr_accessor
-  attr_writer
-  attr_reader
-  
-  
-end
->>>>>>> 8af20a5dd1250ce1c24360f1c3759e2a92af7311
